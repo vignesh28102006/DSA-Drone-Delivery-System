@@ -52,9 +52,6 @@ src/
 └── utils/
 ├── GraphUtils.java # Graph utilities and helper methods
 
-yaml
-Copy code
-
 ---
 
 ## 🧰 Tech Stack
